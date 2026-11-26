@@ -511,10 +511,10 @@
     fast-wrap-ansi "^0.2.0"
     sisteransi "^2.0.0"
 
-"@contextual-io/cds-core@0.1.3":
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/@contextual-io/cds-core/-/cds-core-0.1.3.tgz#108a9e3a1077ff4645b5f7bb79de1fe0e890e2e5"
-  integrity sha512-ZmVvlrAgy8d8XRQkuN+8tlEZwjVDreUa8+98Hnc71lrA57cBwE2kG/mwmgimKaFctpD+hyBCFrgOeMnV1VtAoA==
+"@contextual-io/cds-core@0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@contextual-io/cds-core/-/cds-core-0.1.4.tgz#bb12e971469a020eaf95e1ae5feb22eefe85e43a"
+  integrity sha512-u+C9rFFMCqdPNGqQrEHBbVw0HCZG+Uy00sbhcaO0UCFa+X9e7J9HG950yGEgRFKLpBmx4ytOKiDv2pnqSyv1eg==
   dependencies:
     lit "^3.3.3"
 
