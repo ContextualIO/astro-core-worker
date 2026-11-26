@@ -1,5 +1,11 @@
 # @contextualio/astro-core
 
+## 0.3.1
+
+### Patch Changes
+
+- 365a934: fix(sign-in): update `@contextual-io/cds-core` to 0.1.4, so a returning visitor whose session JWT expired is signed straight back in instead of looping between `/sign-in` and the page
+
 ## 0.3.0
 
 ### Minor Changes
